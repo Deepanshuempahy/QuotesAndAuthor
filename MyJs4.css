@@ -1,0 +1,48 @@
+body{
+	background-color: #a3d5d3;
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: ubuntu;
+
+}
+
+#container1{
+	background: pink;
+	width: 550px;
+	display: flex;
+	height: 100vh;
+	flex-direction: column;
+	height: 300px;
+	justify-content: center;
+	padding: 20px;
+	text-align: center;
+	margin: auto;
+}
+
+
+
+
+#one{
+text-align: left;
+	font-size: 32px;
+}
+
+#two {
+	display: flex;
+	justify-content: flex-end;
+	margin-top: 5px;
+}
+
+p{
+	text-align: right;
+}
+
+.btn {
+	width: 80px;
+	display: flex;
+	margin: auto;
+	height: 40px;
+	justify-content: center;
+}
